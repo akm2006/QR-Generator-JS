@@ -19,8 +19,8 @@ A simple and interactive QR code generator built with HTML, CSS, and JavaScript.
 - This project is open-source and available under the MIT License.
   
 ## Acknowledgments
--The QR code generation is powered by goQR API.
--https://goqr.me/api/
--Special thanks to the open-source community for providing free resources.
+- The QR code generation is powered by goQR API.
+- https://goqr.me/api/
+- Special thanks to the open-source community for providing free resources.
 
 
